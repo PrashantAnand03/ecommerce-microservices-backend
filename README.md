@@ -15,11 +15,25 @@ A comprehensive e-commerce platform built using **Spring Boot Microservices Arch
 
 ---
 -->
-## 👨‍💻 Developer & Responsibilities
+<!--## 👨‍💻 Developer & Responsibilities
 
 | Developer | Role | Services | Key Responsibilities |
 |-----------|------|----------|---------------------|
-| **Anand, Prashant** | Backend Developer | **User Service** (`8081`)<br>**Product Service** (`8082`)<br>**Cart Service** (`8083`)<br>**Order Service** (`8084`) | • User & Admin authentication, JWT token generation, profile management, role-based access<br>• Product catalog management, CRUD operations, inventory management<br>• Shopping cart management, add/remove items, quantity updates, cart-to-order conversion<br>• Order creation, order tracking, status management, payment processing |
+| **Prashant, Anand** | Backend Developer | **User Service** (`8081`)<br>**Product Service** (`8082`)<br>**Cart Service** (`8083`)<br>**Order Service** (`8084`) | • User & Admin authentication, JWT token generation, profile management, role-based access<br>• Product catalog management, CRUD operations, inventory management<br>• Shopping cart management, add/remove items, quantity updates, cart-to-order conversion<br>• Order creation, order tracking, status management, payment processing |
+
+---
+-->
+
+## 👨‍💻 Author & Microservices Architecture
+
+**Developer:** Prashant Anand (`Backend Developer`)
+
+| Service | Port | Key Responsibilities |
+|---------|------|---------------------|
+| **User Service** | `8081` | User & Admin authentication, JWT token generation, profile management, role-based access |
+| **Product Service** | `8082` | Product catalog management, CRUD operations, inventory management |
+| **Cart Service** | `8083` | Shopping cart management, add/remove items, quantity updates, cart-to-order conversion |
+| **Order Service** | `8084` | Order creation, order tracking, status management, payment processing |
 
 ---
 
