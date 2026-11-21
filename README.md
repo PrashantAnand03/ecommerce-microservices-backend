@@ -25,7 +25,7 @@ A comprehensive e-commerce platform built using **Spring Boot Microservices Arch
 -->
 
 ## 👨‍💻 Author & Microservices Architecture
-**Developer:** Prashant Anand
+**Developer:** Prashant Anand <br>
 **Role:** `Backend Developer`
 
 | Service | Port | Key Responsibilities |
