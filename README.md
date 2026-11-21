@@ -4,7 +4,7 @@ A comprehensive e-commerce platform built using **Spring Boot Microservices Arch
 
 ---
 
-## 👥 Team Members & Responsibilities
+<!-- ## 👥 Team Members & Responsibilities
 
 | Team Member | Role | Services | Key Responsibilities |
 |-------------|------|----------|---------------------|
@@ -12,6 +12,14 @@ A comprehensive e-commerce platform built using **Spring Boot Microservices Arch
 | **Kakkar, Pratham** | Backend Developer | **Order Service** (Port: 8084) | Order creation, order tracking, status management, payment processing |
 | **Kumar, Jayant** | Backend Developer | **User Service** (Port: 8081) | User & Admin authentication, JWT token generation, profile management, role-based access |
 | **M, Varshini** | Backend Developer | **Product Service** (Port: 8082) | Product catalog management, CRUD operations, inventory management |
+
+---
+-->
+## 👨‍💻 Developer & Responsibilities
+
+| Developer | Role | Services | Key Responsibilities |
+|-----------|------|----------|---------------------|
+| **Anand, Prashant** | Backend Developer | **User Service** (`8081`)<br>**Product Service** (`8082`)<br>**Cart Service** (`8083`)<br>**Order Service** (`8084`) | • User & Admin authentication, JWT token generation, profile management, role-based access<br>• Product catalog management, CRUD operations, inventory management<br>• Shopping cart management, add/remove items, quantity updates, cart-to-order conversion<br>• Order creation, order tracking, status management, payment processing |
 
 ---
 
